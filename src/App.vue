@@ -6,6 +6,7 @@ import Layout from "@/layouts/Index.vue";
   <v-app>
     <v-main id="app">
       <Layout />
+
     </v-main>
   </v-app>
 </template>
